@@ -6,10 +6,10 @@ import (
 	"testing"
 	"runtime"
 	"path/filepath"
-	_ "sitepointgoapp/routers"
+	_ "biblebeego/routers"
 		
 	"github.com/astaxie/beego"
-	. "github.com/smartystreets/goconvey/convey"
+	"github.com/smartystreets/goconvey/convey"
 )
 
 func init() {
