@@ -5,7 +5,7 @@ import (
 	"github.com/astaxie/beego"
 	"github.com/astaxie/beego/orm"
 	"github.com/astaxie/beego/validation"
-	models "sitepointgoapp/models"
+	models "biblebeego/models"
 	"strconv"
 )
 
