@@ -4,8 +4,8 @@ import (
 	"github.com/astaxie/beego"
 	"github.com/astaxie/beego/orm"
 	_ "github.com/mattn/go-sqlite3"
-	models "sitepointgoapp/models"
-	_ "sitepointgoapp/routers"
+	models "biblebeego/models"
+	_ "biblebeego/routers"
 )
 
 func init() {
