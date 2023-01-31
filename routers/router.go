@@ -2,7 +2,7 @@ package routers
 
 import (
 	"github.com/astaxie/beego"
-	"sitepointgoapp/controllers"
+	"biblebeego/controllers"
 )
 
 func init() {
